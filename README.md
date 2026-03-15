@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✈️ Travel Planner App  
+# ✈️ Mini_Project_1_PAB  
 
-### 🌍 Smart Travel Itinerary Manager  
+### 🌍 Travel Itinerary Planner Application
 💙 Flutter Mobile Application  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A4F7A,100:2EC4B6&height=180&section=header&text=Travel%20Planner%20App&fontSize=30&fontColor=ffffff" />
@@ -36,7 +36,7 @@
 
 ## 🌟 Overview
 
-Travel Planner App adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pengguna menyusun dan mengelola rencana perjalanan secara lebih terstruktur dan efisien.
+Travel Itinerary App adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pengguna menyusun dan mengelola rencana perjalanan secara lebih terstruktur dan efisien.
 
 Aplikasi ini memungkinkan pengguna untuk membuat itinerary perjalanan, mengedit rencana perjalanan, menghapus data itinerary, serta memonitor status perjalanan apakah masih dalam tahap perencanaan atau sudah selesai dilakukan.
 
