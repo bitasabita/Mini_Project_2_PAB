@@ -76,8 +76,6 @@ Aplikasi Travel Planner memiliki berbagai fitur utama sebagai berikut:
 
 
 
-<img src="screenshots/welcome_page.png" width="300"/>
-
 <br><br>
 
 <b>Penjelasan:</b>
