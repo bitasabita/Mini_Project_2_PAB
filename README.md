@@ -1,8 +1,4 @@
 
-# minpro2_pab
-
-A new Flutter project.
-=======
 <div align="center">
 
 # ✈️ Mini_Project_1_PAB  
