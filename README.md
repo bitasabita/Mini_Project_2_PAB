@@ -68,11 +68,9 @@ Tidak hanya itu, aplikasi juga mendukung **Dark Mode dan Light Mode** agar tampi
 
 <br>
 
-<div align="center">
+<div align="center"> 
 
-<!-- TARUH SCREENSHOT DI SINI -->
-<!-- Screenshot yang disarankan: welcome page saat aplikasi pertama dibuka -->
-<img src="screenshots/welcome_page.png" width="300"/>
+![image alt](https://github.com/bitasabita/Mini_Project_2_PAB/blob/63d593ca0a4d02fa8e724ff936882740e75f120e/Screenshot%202026-03-16%20071141.png)
 
 <br><br>
 
