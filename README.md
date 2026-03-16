@@ -895,8 +895,8 @@ Widget seperti `LinearProgressIndicator` sering digunakan untuk menunjukkan sebe
 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
-
-![image](
+  
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/ab34ebd452b5b025be1f1e95e14d64d289022c14/Screenshot%202026-03-16%20123943.png" width="400" />
 <br>
 <sub><i>Gambar 19. Tampilan statistik perjalanan</i></sub>
 
