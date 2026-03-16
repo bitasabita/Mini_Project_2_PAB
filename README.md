@@ -198,7 +198,7 @@ Data yang dapat diisi pengguna antara lain:
 
 <div align="center">
 
-![image alt]
+![image alt](https://github.com/bitasabita/Mini_Project_2_PAB/blob/74eb754f09972e4628b31fdeab004766a0a65338/Screenshot%202026-03-16%20092046.png)
 
 <br><br>
 
