@@ -780,8 +780,9 @@ Nilai waktu yang dipilih kemudian diubah menjadi format teks tertentu, misalnya 
 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
-<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/dd74c5e4e4981ef4d4d882e9789505c7360b812f/Screenshot%202026-03-16%20120735.png
-"width="400" />
+  
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/d95f6835bb1a3529e5fae08b9220263d73ad2aa7/Screenshot%202026-03-16%20120735.png" width="400" />
+
 <br>
 <sub><i>Gambar 16. Pemilihan waktu menggunakan time picker</i></sub>
 
@@ -817,8 +818,8 @@ Status tersebut kemudian ditampilkan kembali di Home Page, misalnya dalam bentuk
 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
-<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/4b9396696eea4dd694e3693eaf5350814f170551/Screenshot%202026-03-16%20121015.png
-"width="400" />
+  
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/4b9396696eea4dd694e3693eaf5350814f170551/Screenshot%202026-03-16%20121015.png" width="400" />
 
 <sub><i>Gambar 17. Pemilihan status itinerary pada form</i></sub>
 
