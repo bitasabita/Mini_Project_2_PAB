@@ -817,10 +817,9 @@ Status tersebut kemudian ditampilkan kembali di Home Page, misalnya dalam bentuk
 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/4b9396696eea4dd694e3693eaf5350814f170551/Screenshot%202026-03-16%20121015.png
+"width="400" />
 
-![image](
-
-<br>
 <sub><i>Gambar 17. Pemilihan status itinerary pada form</i></sub>
 
 </div>
