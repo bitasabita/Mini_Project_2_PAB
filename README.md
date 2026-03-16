@@ -51,7 +51,6 @@ Tidak hanya itu, aplikasi juga mendukung **Dark Mode dan Light Mode** agar tampi
 - ✅ Menambahkan itinerary perjalanan
 - ✅ Mengedit itinerary
 - ✅ Menghapus itinerary
-- ✅ Melihat detail itinerary
 - ✅ Filter itinerary berdasarkan status
 - ✅ Statistik perjalanan
 - ✅ Dark Mode & Light Mode
@@ -193,31 +192,7 @@ Data yang dapat diisi pengguna antara lain:
 ---
 
 <details>
-<summary><b>📄 6. Detail Itinerary</b></summary>
-
-<br>
-
-<div align="center">
-
-![image alt]
-<br><br>
-
-<b>Penjelasan:</b>
-
-Detail Itinerary Page menampilkan informasi lengkap dari itinerary yang dipilih pengguna.
-
-Halaman ini memudahkan pengguna untuk melihat isi perjalanan secara lebih rinci.
-
-
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary><b>📊 7. Trip Statistics</b></summary>
+<summary><b>📊 6. Trip Statistics</b></summary>
 
 <br>
 
@@ -243,7 +218,7 @@ Halaman statistik menampilkan ringkasan data perjalanan pengguna, seperti:
 ---
 
 <details>
-<summary><b>🌙 8. Dark Mode & ☀️ Light Mode</b></summary>
+<summary><b>🌙 7. Dark Mode & ☀️ Light Mode</b></summary>
 
 <br>
 
