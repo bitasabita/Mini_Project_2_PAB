@@ -198,7 +198,7 @@ Home Page merupakan halaman utama aplikasi setelah pengguna berhasil login. Pada
 - Daftar itinerary
 - Filter itinerary
 - Tombol tambah itinerary
-- Navigasi ke halaman detail
+
 
 </details>
 
@@ -245,7 +245,7 @@ Halaman ini digunakan untuk menambahkan data itinerary baru atau mengedit data i
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/74eb754f09972e4628b31fdeab004766a0a65338/Screenshot%202026-03-16%20092046.png" width="260" />
 
 <br>
-<sub><i>Gambar 7. Halaman statistik perjalanan</i></sub>
+<sub><i>Gambar 6. Halaman statistik perjalanan</i></sub>
 
 </div>
 
@@ -272,14 +272,14 @@ Halaman statistik menampilkan ringkasan data perjalanan pengguna, seperti:
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/219012fa846c0e65b7c91c68ef6e1ca05fc77fd6/Screenshot%202026-03-16%20092231.png" width="260" />
 
 <br>
-<sub><i>Gambar 8. Tampilan Dark Mode</i></sub>
+<sub><i>Gambar 7. Tampilan Dark Mode</i></sub>
 
 <br><br>
 
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/a50d525597673be37d8cc8ee7d8f2d5b19556c84/Screenshot%202026-03-16%20092400.png" width="260" />
 
 <br>
-<sub><i>Gambar 9. Tampilan Light Mode</i></sub>
+<sub><i>Gambar 8. Tampilan Light Mode</i></sub>
 
 </div>
 
@@ -557,7 +557,7 @@ Bagian ini menjelaskan bagaimana komponen Flutter diterapkan pada aplikasi sehin
 <br>
 
 ### 📌 Tujuan
-Card itinerary dirancang agar setiap data perjalanan dapat ditampilkan secara ringkas, rapi, dan mudah dipahami. Dalam satu card, pengguna dapat langsung melihat informasi penting seperti hari perjalanan, tanggal, waktu, aktivitas, dan status itinerary.
+Card itinerary dirancang agar setiap data perjalanan dapat ditampilkan secara ringkas, rapi, dan mudah dipahami. Dalam satu card, pengguna dapat langsung melihat informasi penting seperti hari ke berapa perjalanan, tanggal, waktu, aktivitas, dan status itinerary.
 
 ### 🧱 Widget / Konsep yang Digunakan
 - `Container`
@@ -584,24 +584,24 @@ Status itinerary seperti **Planned** atau **Done** juga dapat dibedakan melalui 
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/d5e42e1914103b8177954b267dc55b4222a11416/Screenshot%202026-03-16%20102940.png" width="400" />
 
 <br>
-<sub><i>Gambar 10. Tampilan card itinerary pada Home Page</i></sub>
+<sub><i>Gambar 9. Tampilan card itinerary pada Home Page</i></sub>
 
 </div>
 
 ### ✅ Hasil akhir
-Dengan rancangan ini, daftar itinerary tampil lebih modern, terstruktur, dan mudah diakses pengguna tanpa harus membuka detail terlebih dahulu.
+Dengan rancangan ini, daftar itinerary tampil lebih terstruktur, dan mudah diakses pengguna tanpa harus membuka detail terlebih dahulu.
 
 </details>
 
 ---
 
 <details>
-<summary><b>2. Interaksi pada Card: Swipe, Geser, atau Ubah Posisi</b></summary>
+<summary><b>2. Interaksi pada Card: Swipe, atau Ubah Posisi</b></summary>
 
 <br>
 
 ### 📌 Tujuan
-Interaksi pada card dibuat agar pengguna dapat mengelola itinerary secara lebih praktis, misalnya dengan menggeser card untuk menampilkan aksi tertentu, atau memindahkan urutan itinerary agar sesuai kebutuhan perjalanan.
+Interaksi pada card dibuat agar pengguna dapat mengelola itinerary secara lebih praktis, misalnya dengan menggeser card, atau memindahkan urutan itinerary agar sesuai kebutuhan perjalanan.
 
 ### 🧱 Widget / Konsep yang Digunakan
 - `Dismissible` → jika card bisa di-swipe untuk hapus / aksi tertentu
@@ -614,11 +614,7 @@ Interaksi pada card dibuat agar pengguna dapat mengelola itinerary secara lebih 
 - `lib/pages/home_page.dart`
 
 ### 💡 Penjelasan implementasi
-Jika card itinerary dapat **di-swipe**, maka biasanya Flutter menggunakan widget `Dismissible`. Widget ini memungkinkan pengguna menggeser item ke kiri atau ke kanan untuk melakukan aksi seperti menghapus data atau menampilkan opsi tambahan.
-
-Jika card itinerary dapat **dipindah-pindah urutannya**, maka biasanya digunakan `ReorderableListView`. Widget ini memungkinkan pengguna menahan salah satu item lalu menggesernya ke posisi lain di dalam daftar. Setelah urutan berubah, state akan diperbarui agar tampilan langsung mengikuti data terbaru.
-
-Jika pada project ini perpindahan dilakukan melalui ikon tiga garis atau drag handle, maka logika perpindahan item biasanya berada pada daftar yang dibangun di `home_page.dart`.
+Card itinerary dapat **dipindah-pindah urutannya**, digunakan `ReorderableListView`. Widget ini memungkinkan pengguna menahan salah satu item lalu menggesernya ke posisi lain di dalam daftar. Setelah urutan berubah, state akan diperbarui agar tampilan langsung mengikuti data terbaru.
 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
@@ -627,7 +623,7 @@ Jika pada project ini perpindahan dilakukan melalui ikon tiga garis atau drag ha
 
 
 <br>
-<sub><i>Gambar 11. Interaksi swipe atau geser pada card itinerary</i></sub>
+<sub><i>Gambar 10. Interaksi swipe atau geser pada card itinerary</i></sub>
 
 <br><br>
 
@@ -635,7 +631,7 @@ Jika pada project ini perpindahan dilakukan melalui ikon tiga garis atau drag ha
 </div>
 
 ### ✅ Hasil akhir
-Dengan adanya interaksi swipe atau reorder, pengelolaan itinerary menjadi lebih fleksibel, cepat, dan terasa lebih interaktif bagi pengguna.
+Dengan adanya interaksi swipe atau reorder, pengelolaan itinerary menjadi lebih fleksibel, cepat, dan lebih interaktif bagi pengguna.
 
 
 </details>
@@ -648,7 +644,7 @@ Dengan adanya interaksi swipe atau reorder, pengelolaan itinerary menjadi lebih 
 <br>
 
 ### 📌 Tujuan
-Form input dirancang agar pengguna dapat menambahkan atau mengedit itinerary dengan mudah, terstruktur, dan meminimalkan kesalahan input.
+Form input dirancang agar pengguna dapat menambahkan atau mengedit itinerary dengan mudah, dan meminimalkan kesalahan input.
 
 ### 🧱 Widget / Konsep yang Digunakan
 - `Form`
@@ -666,14 +662,14 @@ Halaman form digunakan untuk dua kebutuhan utama, yaitu **menambah itinerary bar
 
 Controller berfungsi untuk menampung nilai input dari pengguna, sedangkan validator digunakan untuk memastikan bahwa data yang dimasukkan tidak kosong atau tidak sesuai format yang diharapkan.
 
-Struktur form biasanya dibuat vertikal dengan `Column`, agar urutan input terasa natural: mulai dari hari, tanggal, waktu, aktivitas, lalu status. Tombol simpan ditempatkan di bagian bawah agar alur pengisian lebih nyaman.
+Struktur form biasanya dibuat vertikal dengan `Column`, agar urutan input terasa natural: mulai dari hari, tanggal, waktu, aktivitas, lalu status. Tombol simpan ditempatkan di bagian bawah agar alur pengisian lebih teratur (setelah mengisi seluruh form, pengguna dapat klik "simpan" tepat di bawah form terakhir)
 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
 
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/207f6c8f123e9eae85fc11fa2b5b27b4752c5de9/Screenshot%202026-03-16%20114709.png" width="400" />
 <br>
-<sub><i>Gambar 13. Tampilan form input itinerary</i></sub>
+<sub><i>Gambar 12. Tampilan form input itinerary</i></sub>
 
 </div>
 
@@ -690,17 +686,17 @@ Form menjadi lebih terarah dan memudahkan pengguna untuk mengisi data perjalanan
 <br>
 
 ### 📌 Tujuan
-Input manual digunakan untuk data yang memang perlu diketik langsung oleh pengguna, seperti nama aktivitas atau keterangan perjalanan.
+Input manual digunakan untuk data yang memang perlu diketik langsung oleh pengguna, seperti nama aktivitas atau hari ke berapa rencana perjalanan.
 
 ### 🧱 Widget / Konsep yang Digunakan
-- `TextFormField`
+- `TextField`
 - `TextEditingController`
 
 ### 📂 Letak kode
 - `lib/pages/form_page.dart`
 
 ### 💡 Penjelasan implementasi
-Kolom seperti **aktivitas** biasanya menggunakan `TextFormField` biasa agar pengguna bisa mengetik bebas sesuai kebutuhan.  
+Kolom **aktivitas** menggunakan `TextField` biasa agar pengguna bisa mengetik bebas sesuai kebutuhan.  
 Controller digunakan untuk mengambil nilai input, sedangkan validator membantu memastikan kolom tidak kosong saat tombol simpan ditekan.
 
 ### 🖼️ Dokumentasi hasil implementasi
@@ -726,7 +722,7 @@ Pengguna dapat memasukkan data teks secara fleksibel, cepat, dan mudah diproses 
 <br>
 
 ### 📌 Tujuan
-Pemilihan tanggal menggunakan kalender dibuat agar input tanggal lebih akurat, konsisten, dan mengurangi kesalahan format penulisan.
+Pemilihan tanggal menggunakan kalender dibuat agar input tanggal lebih sesuai dan mengurangi kesalahan format penulisan, pengguna juga akan lebih mudah mengisi tanggal perjalanan ketika melihat kalender dan memilih langsung di tampilan kalender, sehingga dapat mengurangi kesalahan input juga.
 
 ### 🧱 Widget / Konsep yang Digunakan
 - `TextFormField` (readOnly)
@@ -737,9 +733,9 @@ Pemilihan tanggal menggunakan kalender dibuat agar input tanggal lebih akurat, k
 - `lib/pages/form_page.dart`
 
 ### 💡 Penjelasan implementasi
-Untuk input tanggal, biasanya kolom dibuat `readOnly` agar pengguna tidak mengetik manual. Saat kolom ditekan, aplikasi akan memanggil `showDatePicker()` untuk menampilkan kalender.
+Untuk input tanggal, kolom dibuat `readOnly` agar pengguna tidak mengetik manual. Saat kolom ditekan, aplikasi akan memanggil `showDatePicker()` untuk menampilkan kalender.
 
-Setelah pengguna memilih tanggal, hasilnya akan dikonversi menjadi teks lalu dimasukkan ke controller agar tampil pada field. Pendekatan ini membuat format tanggal lebih seragam dan menghindari kesalahan pengetikan.
+Setelah pengguna memilih tanggal, hasilnya akan dikonversi menjadi teks lalu dimasukkan ke controller agar tampil pada field sehingga membuat format tanggal lebih seragam dan menghindari kesalahan pengetikan.
 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
@@ -763,7 +759,7 @@ Input tanggal menjadi lebih praktis, rapi, dan valid karena dipilih langsung dar
 <br>
 
 ### 📌 Tujuan
-Pemilihan waktu menggunakan time picker bertujuan agar jam kegiatan bisa diisi dengan format yang konsisten dan lebih mudah dipilih pengguna.
+Pemilihan waktu menggunakan time picker bertujuan agar jam kegiatan bisa diisi dengan format yang lebih mudah dipilih pengguna.
 
 ### 🧱 Widget / Konsep yang Digunakan
 - `TextFormField` (readOnly)
@@ -804,7 +800,7 @@ Pemilihan waktu menjadi lebih cepat, seragam, dan mudah dipahami oleh pengguna.
 Status itinerary digunakan untuk menandai kondisi perjalanan, misalnya masih direncanakan atau sudah selesai.
 
 ### 🧱 Widget / Konsep yang Digunakan
-- `DropdownButtonFormField`, `ChoiceChip`, atau komponen pilihan lain
+- `DropdownButtonFormField`, `ChoiceChip`
 - `setState()`
 
 ### 📂 Letak kode
@@ -812,9 +808,9 @@ Status itinerary digunakan untuk menandai kondisi perjalanan, misalnya masih dir
 - `lib/pages/home_page.dart`
 
 ### 💡 Penjelasan implementasi
-Pada form, status dapat dipilih menggunakan komponen pilihan seperti dropdown atau selector agar pengguna hanya memilih opsi yang tersedia. Ini penting untuk menjaga konsistensi data di database.
+Pada form, status "planned" dan "done" dapat dipilih menggunakan pilihan seperti dropdown agar pengguna hanya memilih opsi yang tersedia.
 
-Status tersebut kemudian ditampilkan kembali di Home Page, misalnya dalam bentuk warna atau label tertentu pada card itinerary.
+Status tersebut kemudian ditampilkan kembali di Home Page, dalam bentuk warna hijau yang artinya "done" atau warna orange yang artinya "planned" pada card itinerary.
 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
@@ -826,7 +822,7 @@ Status tersebut kemudian ditampilkan kembali di Home Page, misalnya dalam bentuk
 </div>
 
 ### ✅ Hasil akhir
-Data status menjadi lebih konsisten dan memudahkan proses filter maupun statistik.
+Data status menjadi lebih sesuai dan memudahkan proses filter maupun statistik.
 
 </details>
 
@@ -849,7 +845,7 @@ Filter dibuat agar pengguna dapat menampilkan itinerary sesuai kategori yang dib
 - `lib/pages/home_page.dart`
 
 ### 💡 Penjelasan implementasi
-Filter pada Home Page biasanya dibuat menggunakan `ChoiceChip`, karena tampilannya ringkas dan cocok untuk pilihan kategori pendek.  
+Filter pada Home Page dibuat menggunakan `ChoiceChip`, karena tampilannya ringkas dan cocok untuk pilihan kategori pendek.  
 Saat salah satu chip dipilih, nilai filter akan diperbarui menggunakan `setState()`, lalu daftar itinerary yang ditampilkan akan menyesuaikan status yang dipilih.
 
 ### 🖼️ Dokumentasi hasil implementasi
@@ -863,7 +859,7 @@ Saat salah satu chip dipilih, nilai filter akan diperbarui menggunakan `setState
 </div>
 
 ### ✅ Hasil akhir
-Pengguna dapat lebih fokus melihat data perjalanan sesuai kebutuhan tanpa terganggu oleh data lain.
+Pengguna dapat lebih fokus melihat daftar itinerary mana yang sudah terlaksana ataupun yang belum.
 
 </details>
 
@@ -891,7 +887,7 @@ Halaman statistik dibuat untuk memberikan ringkasan visual mengenai perkembangan
 Halaman statistik mengambil data itinerary yang tersedia, lalu menghitung jumlah keseluruhan, jumlah planned, jumlah done, serta progress perjalanan.  
 Hasil perhitungan tersebut ditampilkan dalam bentuk angka dan progress bar agar lebih mudah dipahami.
 
-Widget seperti `LinearProgressIndicator` sering digunakan untuk menunjukkan seberapa besar perjalanan yang sudah selesai dibandingkan total itinerary yang dimiliki pengguna.
+Widget seperti `LinearProgressIndicator`digunakan untuk menunjukkan seberapa besar perjalanan yang sudah selesai dibandingkan total itinerary yang dimiliki pengguna.
 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
@@ -928,7 +924,7 @@ Fitur tema dibuat agar pengguna dapat menyesuaikan tampilan aplikasi dengan keny
 - halaman yang menggunakan warna tema
 
 ### 💡 Penjelasan implementasi
-Tema aplikasi diatur melalui `ThemeData` pada root aplikasi. Untuk mengubah tema secara dinamis, biasanya digunakan `ThemeProvider` yang menyimpan kondisi apakah aplikasi sedang menggunakan dark mode atau light mode.
+Tema aplikasi diatur melalui `ThemeData` pada root aplikasi. Untuk mengubah tema secara dinamis, digunakan `ThemeProvider` yang menyimpan kondisi apakah aplikasi sedang menggunakan dark mode atau light mode.
 
 Ketika pengguna menekan tombol toggle tema, provider akan memperbarui state lalu seluruh tampilan aplikasi ikut menyesuaikan warna, background, teks, dan elemen lainnya.
 
@@ -957,7 +953,7 @@ Aplikasi terasa lebih nyaman, modern, dan fleksibel untuk digunakan dalam berbag
 <br>
 
 ### 📌 Tujuan
-SnackBar digunakan untuk memberikan umpan balik langsung kepada pengguna setelah melakukan aksi tertentu.
+SnackBar digunakan untuk memberikan reaksi atau notifikasi langsung kepada pengguna setelah melakukan aksi tertentu.
 
 ### 🧱 Widget / Konsep yang Digunakan
 - `ScaffoldMessenger`
