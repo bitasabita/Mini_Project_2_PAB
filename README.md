@@ -675,7 +675,7 @@ Struktur form biasanya dibuat vertikal dengan `Column`, agar urutan input terasa
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
 
-<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/d5e42e1914103b8177954b267dc55b4222a11416/Screenshot%202026-03-16%20102940.png" width="400" />
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/207f6c8f123e9eae85fc11fa2b5b27b4752c5de9/Screenshot%202026-03-16%20114709.png" width="400" />
 <br>
 <sub><i>Gambar 13. Tampilan form input itinerary</i></sub>
 
