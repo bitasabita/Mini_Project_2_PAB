@@ -647,46 +647,7 @@ Dengan adanya interaksi swipe atau reorder, pengelolaan itinerary menjadi lebih 
 ---
 
 <details>
-<summary><b>3. Navigasi dari Card ke Halaman Detail</b></summary>
- 
-<br>
-
-### 📌 Tujuan
-Navigasi ke halaman detail dibuat agar informasi itinerary bisa ditampilkan lebih lengkap tanpa membuat Home Page terlalu padat.
-
-### 🧱 Widget / Konsep yang Digunakan
-- `GestureDetector` / `InkWell`
-- `Navigator.push()`
-- Pengiriman data antar halaman melalui parameter constructor
-
-### 📂 Letak kode
-- `lib/pages/home_page.dart`
-- `lib/pages/detail_page.dart`
-
-### 💡 Penjelasan implementasi
-Saat pengguna menekan salah satu card itinerary, aplikasi akan menjalankan `Navigator.push()` untuk berpindah ke halaman detail. Data itinerary yang dipilih dikirim ke `detail_page.dart` melalui parameter agar halaman detail dapat menampilkan data yang sesuai.
-
-Pendekatan ini membuat Home Page tetap ringkas, sedangkan detail informasi disimpan pada halaman khusus agar lebih fokus dan mudah dibaca.
-
-### 🖼️ Dokumentasi hasil implementasi
-<div align="center">
-
-![image](
-
-<br>
-<sub><i>Gambar 12. Navigasi dari card itinerary ke halaman detail</i></sub>
-
-</div>
-
-### ✅ Hasil akhir
-Pengguna dapat membuka rincian itinerary secara lebih jelas dengan proses navigasi yang sederhana dan mudah dipahami.
-
-</details>
-
----
-
-<details>
-<summary><b>4. Perancangan Form Input Data Itinerary</b></summary>
+<summary><b>3. Perancangan Form Input Data Itinerary</b></summary>
 
 <br>
 
