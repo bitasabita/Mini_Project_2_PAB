@@ -170,7 +170,7 @@ Fitur yang tersedia pada Home Page:
 
 <div align="center">
 
-![image alt]
+![image alt](https://github.com/bitasabita/Mini_Project_2_PAB/blob/70e3e53f08d46ddb4b5c15b3d50c53e98a7387df/Screenshot%202026-03-16%20090633.png)
 
 <br><br>
 
