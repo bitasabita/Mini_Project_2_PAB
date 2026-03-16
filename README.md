@@ -71,7 +71,6 @@ Tidak hanya itu, aplikasi juga mendukung **Dark Mode dan Light Mode** agar tampi
 <div align="center"> 
 
 ![image alt](https://github.com/bitasabita/Mini_Project_2_PAB/blob/63d593ca0a4d02fa8e724ff936882740e75f120e/Screenshot%202026-03-16%20071141.png)
-
 <br><br>
 
 <b>Penjelasan:</b>
@@ -82,10 +81,6 @@ Halaman ini berfungsi sebagai tampilan awal aplikasi yang memberikan gambaran si
 Pada halaman ini, pengguna dapat memilih untuk:
 - Login ke akun yang sudah ada
 - Register / membuat akun baru
-
-<b>Dokumentasi yang perlu disiapkan:</b>
-- Screenshot tampilan Welcome Page
-- Nama file yang disarankan: <code>screenshots/welcome_page.png</code>
 
 </div>
 
@@ -100,10 +95,7 @@ Pada halaman ini, pengguna dapat memilih untuk:
 
 <div align="center">
 
-<!-- TARUH SCREENSHOT LOGIN PAGE -->
-<!-- Screenshot yang disarankan: halaman login sebelum submit -->
-<img src="screenshots/login_page.png" width="300"/>
-
+![image alt](https://github.com/bitasabita/Mini_Project_2_PAB/blob/d4f034e1741bfa63d6ce21d64ee8416b53d70fdf/Screenshot%202026-03-16%20073112.png)
 <br><br>
 
 <b>Penjelasan:</b>
@@ -111,13 +103,6 @@ Pada halaman ini, pengguna dapat memilih untuk:
 Login Page digunakan untuk proses autentikasi pengguna dengan memasukkan email dan password yang telah terdaftar di Supabase Authentication.
 
 Jika data login benar, maka pengguna akan diarahkan ke halaman utama aplikasi.
-
-<b>Dokumentasi yang perlu disiapkan:</b>
-- Screenshot halaman login
-- Screenshot saat login berhasil (boleh berupa snackbar atau langsung pindah halaman)
-- Nama file yang disarankan:
-  - <code>screenshots/login_page.png</code>
-  - <code>screenshots/login_success.png</code>
 
 </div>
 
@@ -132,9 +117,7 @@ Jika data login benar, maka pengguna akan diarahkan ke halaman utama aplikasi.
 
 <div align="center">
 
-<!-- TARUH SCREENSHOT REGISTER PAGE -->
-<!-- Screenshot yang disarankan: halaman register -->
-<img src="screenshots/register_page.png" width="300"/>
+![image alt]
 
 <br><br>
 
@@ -143,15 +126,6 @@ Jika data login benar, maka pengguna akan diarahkan ke halaman utama aplikasi.
 Register Page digunakan untuk membuat akun baru dengan memasukkan email dan password.
 
 Data registrasi akan dikirim ke **Supabase Authentication**. Jika berhasil, akun baru akan tercatat pada dashboard Supabase.
-
-<b>Dokumentasi yang perlu disiapkan:</b>
-- Screenshot halaman register
-- Screenshot saat register berhasil
-- Screenshot dashboard Supabase Auth yang menunjukkan user berhasil dibuat
-- Nama file yang disarankan:
-  - <code>screenshots/register_page.png</code>
-  - <code>screenshots/register_success.png</code>
-  - <code>screenshots/supabase_auth_user.png</code>
 
 </div>
 
@@ -166,9 +140,7 @@ Data registrasi akan dikirim ke **Supabase Authentication**. Jika berhasil, akun
 
 <div align="center">
 
-<!-- TARUH SCREENSHOT HOME PAGE -->
-<!-- Screenshot yang disarankan: halaman home dengan list itinerary -->
-<img src="screenshots/home_page.png" width="300"/>
+![image alt]
 
 <br><br>
 
@@ -184,12 +156,6 @@ Fitur yang tersedia pada Home Page:
 - Tombol tambah itinerary
 - Navigasi ke halaman detail
 
-<b>Dokumentasi yang perlu disiapkan:</b>
-- Screenshot Home Page
-- Screenshot saat data itinerary sudah tampil
-- Nama file yang disarankan:
-  - <code>screenshots/home_page.png</code>
-  - <code>screenshots/home_with_data.png</code>
 
 </div>
 
@@ -204,9 +170,7 @@ Fitur yang tersedia pada Home Page:
 
 <div align="center">
 
-<!-- TARUH SCREENSHOT FORM PAGE -->
-<!-- Screenshot yang disarankan: halaman form add/edit itinerary -->
-<img src="screenshots/form_page.png" width="300"/>
+![image alt]
 
 <br><br>
 
@@ -221,15 +185,6 @@ Data yang dapat diisi pengguna antara lain:
 - Aktivitas
 - Status perjalanan
 
-<b>Dokumentasi yang perlu disiapkan:</b>
-- Screenshot form tambah itinerary
-- Screenshot form edit itinerary
-- Screenshot snackbar berhasil menambah / mengedit
-- Nama file yang disarankan:
-  - <code>screenshots/form_add_page.png</code>
-  - <code>screenshots/form_edit_page.png</code>
-  - <code>screenshots/add_success.png</code>
-  - <code>screenshots/edit_success.png</code>
 
 </div>
 
@@ -244,10 +199,7 @@ Data yang dapat diisi pengguna antara lain:
 
 <div align="center">
 
-<!-- TARUH SCREENSHOT DETAIL PAGE -->
-<!-- Screenshot yang disarankan: halaman detail itinerary -->
-<img src="screenshots/detail_page.png" width="300"/>
-
+![image alt]
 <br><br>
 
 <b>Penjelasan:</b>
@@ -256,10 +208,7 @@ Detail Itinerary Page menampilkan informasi lengkap dari itinerary yang dipilih 
 
 Halaman ini memudahkan pengguna untuk melihat isi perjalanan secara lebih rinci.
 
-<b>Dokumentasi yang perlu disiapkan:</b>
-- Screenshot halaman detail itinerary
-- Nama file yang disarankan:
-  - <code>screenshots/detail_page.png</code>
+
 
 </div>
 
@@ -274,9 +223,7 @@ Halaman ini memudahkan pengguna untuk melihat isi perjalanan secara lebih rinci.
 
 <div align="center">
 
-<!-- TARUH SCREENSHOT STATS PAGE -->
-<!-- Screenshot yang disarankan: halaman statistik -->
-<img src="screenshots/stats_page.png" width="300"/>
+![image alt]
 
 <br><br>
 
@@ -288,10 +235,6 @@ Halaman statistik menampilkan ringkasan data perjalanan pengguna, seperti:
 - itinerary done
 - progress perjalanan
 
-<b>Dokumentasi yang perlu disiapkan:</b>
-- Screenshot halaman statistik
-- Nama file yang disarankan:
-  - <code>screenshots/stats_page.png</code>
 
 </div>
 
@@ -306,8 +249,7 @@ Halaman statistik menampilkan ringkasan data perjalanan pengguna, seperti:
 
 <div align="center">
 
-<!-- TARUH SCREENSHOT LIGHT MODE -->
-<img src="screenshots/light_mode.png" width="300"/>
+![image alt]
 
 <br><br>
 
@@ -324,13 +266,6 @@ Aplikasi mendukung dua mode tampilan, yaitu:
 
 Fitur ini dibuat agar aplikasi lebih nyaman digunakan dalam berbagai kondisi pencahayaan.
 
-<b>Dokumentasi yang perlu disiapkan:</b>
-- Screenshot halaman yang sama dalam mode terang
-- Screenshot halaman yang sama dalam mode gelap
-- Disarankan gunakan halaman Home agar perbandingan lebih jelas
-- Nama file yang disarankan:
-  - <code>screenshots/light_mode.png</code>
-  - <code>screenshots/dark_mode.png</code>
 
 </div>
 
