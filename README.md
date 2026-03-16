@@ -780,9 +780,8 @@ Nilai waktu yang dipilih kemudian diubah menjadi format teks tertentu, misalnya 
 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
-
-![image](
-
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/dd74c5e4e4981ef4d4d882e9789505c7360b812f/Screenshot%202026-03-16%20120735.png
+"width="400" />
 <br>
 <sub><i>Gambar 16. Pemilihan waktu menggunakan time picker</i></sub>
 
