@@ -669,7 +669,7 @@ Struktur form biasanya dibuat vertikal dengan `Column`, agar urutan input terasa
 
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/207f6c8f123e9eae85fc11fa2b5b27b4752c5de9/Screenshot%202026-03-16%20114709.png" width="400" />
 <br>
-<sub><i>Gambar 12. Tampilan form input itinerary</i></sub>
+<sub><i>Gambar 11. Tampilan form input itinerary</i></sub>
 
 </div>
 
@@ -705,7 +705,7 @@ Controller digunakan untuk mengambil nilai input, sedangkan validator membantu m
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/876e5772064f8ad43cc685943b9930fdb1186c68/Screenshot%202026-03-16%20115228.png" width="400" />
 
 <br>
-<sub><i>Gambar 14. Input data dengan cara mengetik langsung</i></sub>
+<sub><i>Gambar 12. Input data dengan cara mengetik langsung</i></sub>
 
 </div>
 
@@ -742,7 +742,7 @@ Setelah pengguna memilih tanggal, hasilnya akan dikonversi menjadi teks lalu dim
   
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/2e8fde346736c2daa92af7ecee5dbd86c0927385/Screenshot%202026-03-16%20115959.png" width="400" />
 <br>
-<sub><i>Gambar 15. Pemilihan tanggal menggunakan kalender</i></sub>
+<sub><i>Gambar 13. Pemilihan tanggal menggunakan kalender</i></sub>
 
 </div>
 
@@ -780,7 +780,7 @@ Nilai waktu yang dipilih kemudian diubah menjadi format teks tertentu, misalnya 
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/d95f6835bb1a3529e5fae08b9220263d73ad2aa7/Screenshot%202026-03-16%20120735.png" width="400" />
 
 <br>
-<sub><i>Gambar 16. Pemilihan waktu menggunakan time picker</i></sub>
+<sub><i>Gambar 14. Pemilihan waktu menggunakan time picker</i></sub>
 
 </div>
 
@@ -817,7 +817,7 @@ Status tersebut kemudian ditampilkan kembali di Home Page, dalam bentuk warna hi
   
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/4b9396696eea4dd694e3693eaf5350814f170551/Screenshot%202026-03-16%20121015.png" width="400" />
 
-<sub><i>Gambar 17. Pemilihan status itinerary pada form</i></sub>
+<sub><i>Gambar 15. Pemilihan status itinerary pada form</i></sub>
 
 </div>
 
@@ -854,7 +854,7 @@ Saat salah satu chip dipilih, nilai filter akan diperbarui menggunakan `setState
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/2c7060d1a4e48ae8ee5a8d0fd379219ddde1eb32/filter.png" width="400" />
 
 <br>
-<sub><i>Gambar 18. Filter itinerary berdasarkan status</i></sub>
+<sub><i>Gambar 16. Filter itinerary berdasarkan status</i></sub>
 
 </div>
 
@@ -894,7 +894,7 @@ Widget seperti `LinearProgressIndicator`digunakan untuk menunjukkan seberapa bes
   
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/ab34ebd452b5b025be1f1e95e14d64d289022c14/Screenshot%202026-03-16%20123943.png" width="280" />
 <br>
-<sub><i>Gambar 19. Tampilan statistik perjalanan</i></sub>
+<sub><i>Gambar 17. Tampilan statistik perjalanan</i></sub>
 
 </div>
 
@@ -936,7 +936,7 @@ Ketika pengguna menekan tombol toggle tema, provider akan memperbarui state lalu
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/a50d525597673be37d8cc8ee7d8f2d5b19556c84/Screenshot%202026-03-16%20092400.png" width="260" />
 
 <br>
-<sub><i>Gambar 20. Implementasi pergantian dark mode dan light mode</i></sub>
+<sub><i>Gambar 18. Implementasi pergantian dark mode dan light mode</i></sub>
 
 </div>
 
@@ -973,7 +973,7 @@ Komponen ini penting untuk memberi konfirmasi bahwa aksi pengguna berhasil dipro
 
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/f4ce955459c3a568f7ca66821afd1133312ff39e/Screenshot%202026-03-16%20124620.png" width="400" />
 <br>
-<sub><i>Gambar 21. Notifikasi SnackBar setelah aksi pengguna</i></sub>
+<sub><i>Gambar 19. Notifikasi SnackBar setelah aksi pengguna</i></sub>
 
 </div>
 
