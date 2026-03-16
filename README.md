@@ -228,7 +228,7 @@ Halaman statistik menampilkan ringkasan data perjalanan pengguna, seperti:
 
 <br><br>
 
-![image alt](
+![image alt](https://github.com/bitasabita/Mini_Project_2_PAB/blob/a50d525597673be37d8cc8ee7d8f2d5b19556c84/Screenshot%202026-03-16%20092400.png)
 
 <br><br>
 
