@@ -743,8 +743,8 @@ Setelah pengguna memilih tanggal, hasilnya akan dikonversi menjadi teks lalu dim
 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
-
-![image](
+  
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/2e8fde346736c2daa92af7ecee5dbd86c0927385/Screenshot%202026-03-16%20115959.png" width="400" />
 <br>
 <sub><i>Gambar 15. Pemilihan tanggal menggunakan kalender</i></sub>
 
