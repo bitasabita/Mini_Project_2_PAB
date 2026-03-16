@@ -224,12 +224,11 @@ Halaman statistik menampilkan ringkasan data perjalanan pengguna, seperti:
 
 <div align="center">
 
-![image alt]
+![image alt](https://github.com/bitasabita/Mini_Project_2_PAB/blob/219012fa846c0e65b7c91c68ef6e1ca05fc77fd6/Screenshot%202026-03-16%20092231.png)
 
 <br><br>
 
-<!-- TARUH SCREENSHOT DARK MODE -->
-<img src="screenshots/dark_mode.png" width="300"/>
+![image alt](
 
 <br><br>
 
