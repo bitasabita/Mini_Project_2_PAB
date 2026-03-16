@@ -116,7 +116,7 @@ Jika data login benar, maka pengguna akan diarahkan ke halaman utama aplikasi.
 
 <div align="center">
 
-![image alt]
+![image alt](https://github.com/bitasabita/Mini_Project_2_PAB/blob/7ad6de620eea23eea3f337c5037b906ddcf70ec2/Screenshot%202026-03-16%20091412.png)
 
 <br><br>
 
