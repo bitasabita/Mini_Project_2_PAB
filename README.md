@@ -140,7 +140,7 @@ Data registrasi akan dikirim ke **Supabase Authentication**. Jika berhasil, akun
 
 <div align="center">
 
-![image alt]
+![image alt](https://github.com/bitasabita/Mini_Project_2_PAB/blob/2606a88c37ee0b509f35f73982294f790ebbcbf7/Screenshot%202026-03-16%20090429.png)
 
 <br><br>
 
