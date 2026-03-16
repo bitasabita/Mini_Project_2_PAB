@@ -631,16 +631,12 @@ Jika pada project ini perpindahan dilakukan melalui ikon tiga garis atau drag ha
 
 <br><br>
 
-<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/d5e42e1914103b8177954b267dc55b4222a11416/Screenshot%202026-03-16%20102940.png" width="400" />
 
 </div>
 
 ### ✅ Hasil akhir
 Dengan adanya interaksi swipe atau reorder, pengelolaan itinerary menjadi lebih fleksibel, cepat, dan terasa lebih interaktif bagi pengguna.
 
-> **Catatan:**  
-> Jika pada project kamu ternyata card **tidak benar-benar swipe** dan hanya punya tombol edit, hapus, dan drag handle, bagian ini tetap bisa dipakai dengan sedikit penyesuaian narasi.  
-> Tinggal sesuaikan istilahnya menjadi: **“interaksi pengelolaan card itinerary”**.
 
 </details>
 
@@ -710,7 +706,7 @@ Controller digunakan untuk mengambil nilai input, sedangkan validator membantu m
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
 
-![image](
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/876e5772064f8ad43cc685943b9930fdb1186c68/Screenshot%202026-03-16%20115228.png" width="400" />
 
 <br>
 <sub><i>Gambar 14. Input data dengan cara mengetik langsung</i></sub>
