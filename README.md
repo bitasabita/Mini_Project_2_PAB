@@ -896,7 +896,7 @@ Widget seperti `LinearProgressIndicator` sering digunakan untuk menunjukkan sebe
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
   
-<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/ab34ebd452b5b025be1f1e95e14d64d289022c14/Screenshot%202026-03-16%20123943.png" width="350" />
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/ab34ebd452b5b025be1f1e95e14d64d289022c14/Screenshot%202026-03-16%20123943.png" width="280" />
 <br>
 <sub><i>Gambar 19. Tampilan statistik perjalanan</i></sub>
 
@@ -935,7 +935,10 @@ Ketika pengguna menekan tombol toggle tema, provider akan memperbarui state lalu
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
 
-![image](
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/219012fa846c0e65b7c91c68ef6e1ca05fc77fd6/Screenshot%202026-03-16%20092231.png" width="260" />
+
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/a50d525597673be37d8cc8ee7d8f2d5b19556c84/Screenshot%202026-03-16%20092400.png" width="260" />
+
 <br>
 <sub><i>Gambar 20. Implementasi pergantian dark mode dan light mode</i></sub>
 
@@ -1019,55 +1022,4 @@ lib/
 
 ---
 
-<details open>
-<summary><b>⚙️ Cara Menjalankan Project — clone, install, dan run</b></summary>
 
-<br>
-
-## 1. Clone repository
-```bash
-git clone https://github.com/bitasabita/Mini_Project_2_PAB.git
-cd Mini_Project_2_PAB
-```
-
-## 2. Install dependency
-```bash
-flutter pub get
-```
-
-## 3. Buat file `.env`
-Isi file `.env` dengan konfigurasi Supabase:
-
-```env
-SUPABASE_URL=your_supabase_url
-SUPABASE_ANON_KEY=your_supabase_anon_key
-```
-
-## 4. Jalankan aplikasi
-```bash
-flutter run
-```
-
-</details>
-
----
-
-<details open>
-<summary><b>📌 Catatan Tambahan — highlight singkat project</b></summary>
-
-<br>
-
-Project ini dibuat sebagai tugas **Mini Project 2** pada mata kuliah **Pemrograman Aplikasi Bergerak (PAB)**.  
-Aplikasi difokuskan pada implementasi Flutter dengan integrasi **Supabase Authentication**, manajemen data itinerary, statistik perjalanan, serta dukungan **dark/light mode**.
-
-</details>
-
----
-
-<div align="center">
-
-### ✨ Terima Kasih Telah Melihat Project Ini ✨
-
-Jika project ini bermanfaat, jangan lupa beri ⭐ pada repository.
-
-</div>
