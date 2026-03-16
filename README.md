@@ -580,8 +580,8 @@ Status itinerary seperti **Planned** atau **Done** juga dapat dibedakan melalui 
 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
-
-![image](https://github.com/bitasabita/Mini_Project_2_PAB/blob/d5e42e1914103b8177954b267dc55b4222a11416/Screenshot%202026-03-16%20102940.png)
+  
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/d5e42e1914103b8177954b267dc55b4222a11416/Screenshot%202026-03-16%20102940.png" width="400" />
 
 <br>
 <sub><i>Gambar 10. Tampilan card itinerary pada Home Page</i></sub>
@@ -623,14 +623,16 @@ Jika pada project ini perpindahan dilakukan melalui ikon tiga garis atau drag ha
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
 
-![image](
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/d5e42e1914103b8177954b267dc55b4222a11416/Screenshot%202026-03-16%20102940.png" width="400" />
+
 
 <br>
 <sub><i>Gambar 11. Interaksi swipe atau geser pada card itinerary</i></sub>
 
 <br><br>
 
-![image](
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/d5e42e1914103b8177954b267dc55b4222a11416/Screenshot%202026-03-16%20102940.png" width="400" />
+
 
 <br>
 <sub><i>Gambar 12. Proses memindahkan urutan card itinerary</i></sub>
@@ -650,7 +652,7 @@ Dengan adanya interaksi swipe atau reorder, pengelolaan itinerary menjadi lebih 
 
 <details>
 <summary><b>3. Navigasi dari Card ke Halaman Detail</b></summary>
-
+ 
 <br>
 
 ### 📌 Tujuan
