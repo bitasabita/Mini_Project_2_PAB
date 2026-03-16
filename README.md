@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ✈️ Mini_Project_1_PAB  
+# ✈️ Mini_Project_2_PAB  
 
 ### 🌍 Travel Itinerary Planner Application
 💙 Flutter Mobile Application  
