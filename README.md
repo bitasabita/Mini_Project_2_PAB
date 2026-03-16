@@ -623,7 +623,7 @@ Jika pada project ini perpindahan dilakukan melalui ikon tiga garis atau drag ha
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
 
-<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/d5e42e1914103b8177954b267dc55b4222a11416/Screenshot%202026-03-16%20102940.png" width="400" />
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/d8a2e9901b45f1c46c3e78eec06266f601013582/Screenshot%202026-03-16%20112859.png" width="400" />
 
 
 <br>
@@ -632,10 +632,6 @@ Jika pada project ini perpindahan dilakukan melalui ikon tiga garis atau drag ha
 <br><br>
 
 <img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/d5e42e1914103b8177954b267dc55b4222a11416/Screenshot%202026-03-16%20102940.png" width="400" />
-
-
-<br>
-<sub><i>Gambar 12. Proses memindahkan urutan card itinerary</i></sub>
 
 </div>
 
@@ -678,7 +674,7 @@ Pendekatan ini membuat Home Page tetap ringkas, sedangkan detail informasi disim
 ![image](
 
 <br>
-<sub><i>Gambar 13. Navigasi dari card itinerary ke halaman detail</i></sub>
+<sub><i>Gambar 12. Navigasi dari card itinerary ke halaman detail</i></sub>
 
 </div>
 
@@ -721,7 +717,7 @@ Struktur form biasanya dibuat vertikal dengan `Column`, agar urutan input terasa
 ![image](
 
 <br>
-<sub><i>Gambar 14. Tampilan form input itinerary</i></sub>
+<sub><i>Gambar 13. Tampilan form input itinerary</i></sub>
 
 </div>
 
@@ -757,7 +753,7 @@ Controller digunakan untuk mengambil nilai input, sedangkan validator membantu m
 ![image](
 
 <br>
-<sub><i>Gambar 15. Input data dengan cara mengetik langsung</i></sub>
+<sub><i>Gambar 14. Input data dengan cara mengetik langsung</i></sub>
 
 </div>
 
@@ -794,7 +790,7 @@ Setelah pengguna memilih tanggal, hasilnya akan dikonversi menjadi teks lalu dim
 
 ![image](
 <br>
-<sub><i>Gambar 16. Pemilihan tanggal menggunakan kalender</i></sub>
+<sub><i>Gambar 15. Pemilihan tanggal menggunakan kalender</i></sub>
 
 </div>
 
@@ -832,7 +828,7 @@ Nilai waktu yang dipilih kemudian diubah menjadi format teks tertentu, misalnya 
 ![image](
 
 <br>
-<sub><i>Gambar 17. Pemilihan waktu menggunakan time picker</i></sub>
+<sub><i>Gambar 16. Pemilihan waktu menggunakan time picker</i></sub>
 
 </div>
 
@@ -870,7 +866,7 @@ Status tersebut kemudian ditampilkan kembali di Home Page, misalnya dalam bentuk
 ![image](
 
 <br>
-<sub><i>Gambar 18. Pemilihan status itinerary pada form</i></sub>
+<sub><i>Gambar 17. Pemilihan status itinerary pada form</i></sub>
 
 </div>
 
@@ -907,7 +903,7 @@ Saat salah satu chip dipilih, nilai filter akan diperbarui menggunakan `setState
 ![image](
 
 <br>
-<sub><i>Gambar 19. Filter itinerary berdasarkan status</i></sub>
+<sub><i>Gambar 18. Filter itinerary berdasarkan status</i></sub>
 
 </div>
 
@@ -947,7 +943,7 @@ Widget seperti `LinearProgressIndicator` sering digunakan untuk menunjukkan sebe
 
 ![image](
 <br>
-<sub><i>Gambar 20. Tampilan statistik perjalanan</i></sub>
+<sub><i>Gambar 19. Tampilan statistik perjalanan</i></sub>
 
 </div>
 
@@ -986,7 +982,7 @@ Ketika pengguna menekan tombol toggle tema, provider akan memperbarui state lalu
 
 ![image](
 <br>
-<sub><i>Gambar 21. Implementasi pergantian dark mode dan light mode</i></sub>
+<sub><i>Gambar 20. Implementasi pergantian dark mode dan light mode</i></sub>
 
 </div>
 
@@ -1023,7 +1019,7 @@ Komponen ini penting untuk memberi konfirmasi bahwa aksi pengguna berhasil dipro
 
 ![image](
 <br>
-<sub><i>Gambar 22. Notifikasi SnackBar setelah aksi pengguna</i></sub>
+<sub><i>Gambar 21. Notifikasi SnackBar setelah aksi pengguna</i></sub>
 
 </div>
 
