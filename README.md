@@ -855,7 +855,7 @@ Saat salah satu chip dipilih, nilai filter akan diperbarui menggunakan `setState
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
 
-![image](
+<img src="https://github.com/bitasabita/Mini_Project_2_PAB/blob/2c7060d1a4e48ae8ee5a8d0fd379219ddde1eb32/filter.png" width="400" />
 
 <br>
 <sub><i>Gambar 18. Filter itinerary berdasarkan status</i></sub>
