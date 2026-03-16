@@ -581,7 +581,7 @@ Status itinerary seperti **Planned** atau **Done** juga dapat dibedakan melalui 
 ### 🖼️ Dokumentasi hasil implementasi
 <div align="center">
 
-![image](
+![image](https://github.com/bitasabita/Mini_Project_2_PAB/blob/d5e42e1914103b8177954b267dc55b4222a11416/Screenshot%202026-03-16%20102940.png)
 
 <br>
 <sub><i>Gambar 10. Tampilan card itinerary pada Home Page</i></sub>
